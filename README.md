@@ -66,5 +66,5 @@ I enjoy writing clean, maintainable code, and I’m always looking to learn and 
 
 ## 📫 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel_Martino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arielmartino/](https://www.linkedin.com/in/ariel-emilio-martino-450b50372/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariel_Martino-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/ariel-emilio-martino-450b50372/)
 ![Email](https://img.shields.io/badge/Gmail-arielemiliomartino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
