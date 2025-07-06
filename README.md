@@ -66,4 +66,4 @@ I enjoy writing clean, maintainable code, and I’m always looking to learn and 
 
 ## 📫 Contact me
 
-![Email](https://img.shields.io/badge/Gmail-arielemiliomartino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-amartinocomba@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
