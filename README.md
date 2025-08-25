@@ -40,28 +40,44 @@ I enjoy writing clean, maintainable code, and I’m always looking to learn and 
 
 ---
 
-## 🛠️ Other Skills & Tech
+## 🛠️ Skills & Technologies
 
 **Languages & Paradigms**  
-`Java`, `PHP (basic)`, `SQL`, `OOP`
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23FF6F00.svg?style=for-the-badge&logo=oop&logoColor=white) *Object-Oriented Programming*
 
 **Frameworks & Architecture**  
-`MVC`, `REST API design`, `SOLID Principles`, `Design Patterns`
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%2300589F.svg?style=for-the-badge&logo=mvc&logoColor=white) *Architecture*
+![REST API](https://img.shields.io/badge/REST%20API-%2300A4EF.svg?style=for-the-badge&logo=rest&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-%23009688.svg?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23E44D30.svg?style=for-the-badge)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-`Relational Modeling`, `Stored Procedures`
+`Relational Modeling`, `Stored Procedures`, `ACID`
 
 **Tools & Practices**  
-`Git`, `GitHub`, `Postman`, `Debugging`, `Agile/Scrum`, `Jira`, `Trello`
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile/Scrum-%2300A8E0.svg?style=for-the-badge&logo=agile&logoColor=white)
+`Debugging`
 
 **Concepts**  
 `Algorithms`, `Data Structures`, `Computational Complexity`, `SDLC`, `Software Architectures`
 
 **UX/UI & Tools**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-`UX/UI Basics`, `Semantic HTML`, `Accessibility (a11y)`, `Chrome DevTools`
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+`UX/UI Basics`, `Semantic HTML`, `Accessibility (a11y)`
 
 ---
 
